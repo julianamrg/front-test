@@ -19,6 +19,7 @@ const Login = () => {
     // destructuring the object 
     const  {username, clave} = userFormInformation
 
+    // function to send the information to the form and value the email and password
     const handleSubmit = async (e) => {
         e.preventDefault();
         
@@ -26,6 +27,7 @@ const Login = () => {
         setUser(res.data);
     }
 
+    // function to get the user information from the inputs
     const handleInputChange = (e) => {
         const { name, value } = e.target;
         setUserFormInformation({ ...userFormInformation, [name]: value });
@@ -79,7 +81,7 @@ const Login = () => {
                             </div>
                         </div>
                         <div className="field">
-                            <button className="button is-centered login-btn " type="submit" > <strong>Login </strong></button>
+                            <button className="button is-centered login-btn " type="submit"  > <strong>Login </strong></button>
                         </div>
                     </form>
                 </div>
@@ -88,6 +90,6 @@ const Login = () => {
     </div>
 </div>
   
-  )
+  ) 
 }
 export default Login;
