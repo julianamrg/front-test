@@ -36,7 +36,7 @@ const Login = () => {
 
   return (
   
- <div className="hero is-info is-large fondo">
+ <div className="hero is-info is-medium fondo">
     <div className='hero-body' >
         <div className='container'>
             <div className='columns is-centered'>
