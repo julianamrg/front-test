@@ -23,6 +23,7 @@ const Navbar = () => {
               
             
           </div>
+              
           <div id="navbarMenuHeroB" className="navbar-end">
               <div className="navbar-item">
                 <div className="buttons">
