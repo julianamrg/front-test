@@ -1,0 +1,15 @@
+.addMovement-btn {
+  background-color: #292556;
+  color: white;
+}
+
+.addMovement-btn:hover{
+  background-color: #3D6CB2;
+  color: white;
+}
+
+#title-color{
+  color: #292556;
+
+}
+

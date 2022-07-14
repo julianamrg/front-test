@@ -1,0 +1,47 @@
+.background-gradient{
+  /* background-image: linear-gradient(to right, #ffffff, #dfdfdf, #c0c0c0, #a1a1a1, #848484); */
+  
+/*
+  background: hsla(0, 0%, 99%, 1);
+
+background: linear-gradient(0deg, hsla(0, 0%, 99%, 1) 30%, hsla(0, 0%, 77%, 1) 69%);
+
+background: -moz-linear-gradient(0deg, hsla(0, 0%, 99%, 1) 30%, hsla(0, 0%, 77%, 1) 69%);
+
+background: -webkit-linear-gradient(0deg, hsla(0, 0%, 99%, 1) 30%, hsla(0, 0%, 77%, 1) 69%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FDFDFD", endColorstr="#C4C4C4", GradientType=1 );*/
+
+/*
+background: hsla(0, 0%, 38%, 1);
+
+background: linear-gradient(90deg, hsla(0, 0%, 38%, 1) 5%, hsla(0, 0%, 99%, 1) 8%);
+
+background: -moz-linear-gradient(90deg, hsla(0, 0%, 38%, 1) 5%, hsla(0, 0%, 99%, 1) 8%);
+
+background: -webkit-linear-gradient(90deg, hsla(0, 0%, 38%, 1) 5%, hsla(0, 0%, 99%, 1) 8%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#626262", endColorstr="#FDFDFD", GradientType=1 );
+
+*/
+background: hsla(245, 40%, 24%, 1);
+
+background: linear-gradient(90deg, hsla(245, 40%, 24%, 1) 7%, hsla(0, 0%, 99%, 1) 7%);
+
+background: -moz-linear-gradient(90deg, hsla(245, 40%, 24%, 1) 7%, hsla(0, 0%, 99%, 1) 7%);
+
+background: -webkit-linear-gradient(90deg, hsla(245, 40%, 24%, 1) 7%, hsla(0, 0%, 99%, 1) 7%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#292556", endColorstr="#FCFCFC", GradientType=1 );
+}
+
+
+.logout-btn{
+  background-color: #292556;
+  color: white;
+}
+
+.logout-btn:hover{
+  background-color: #3D6CB2;
+  color: white;
+}

@@ -1,0 +1,45 @@
+.fondo{
+  background-image: url(https://images.unsplash.com/photo-1437419764061-2473afe69fc2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80 );
+  background-size: cover;
+  width: 100%;
+  background-repeat: no-repeat;
+  filter: saturate(200%);
+ height: 80vh;
+ 
+}
+
+.login-btn{
+  background-color: #292556;
+  color: white;
+}
+
+.login-btn:hover{
+  background-color: #3D6CB2;
+  color: white;
+}
+
+/* https://images.unsplash.com/photo-1509569785882-4c160654309e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80*/
+
+
+/* https://images.unsplash.com/photo-1437419764061-2473afe69fc2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80  */
+
+/* https://images.unsplash.com/photo-1506203396712-45cde6442eaa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80 */
+
+
+/* 
+
+https://images.unsplash.com/photo-1506203396712-45cde6442eaa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+*/
+
+
+
+/* https://img.freepik.com/foto-gratis/oficina-documentos-cuentas-dinero_144627-33564.jpg?size=626&ext=jpg&ga=GA1.2.1515765882.1657296545  */
+
+
+/*https://img.freepik.com/foto-gratis/acercamiento-objetos-educacion-economia_23-2149113581.jpg?size=626&ext=jpg&ga=GA1.2.1515765882.1657296545  */
+
+/* https://img.freepik.com/foto-gratis/grafico-mercado-valores-datos-financieros-placa-electronica-pantalla-ordenador-portatil_169016-14898.jpg?size=626&ext=jpg&ga=GA1.2.1515765882.1657296545 */
+
+/* https://img.freepik.com/foto-gratis/portatil-digital-que-trabaja-concepto-negocio-global_53876-23307.jpg?size=626&ext=jpg&ga=GA1.2.1515765882.1657296545 */
+
+/* https://unsplash.com/es/fotos/zmY1hAJiIIU */
